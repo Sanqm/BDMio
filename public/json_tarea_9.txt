@@ -1,0 +1,262 @@
+{
+  "matemáticas": {
+    "Manuel Muy Listo": [
+      10,
+      9.7,
+      8.9
+    ],
+    "Pepe Dejo Una": [
+      6,
+      7.2,
+      4
+    ],
+    "María Apruebo Justita": [
+      6,
+      5.5,
+      4
+    ],
+    "Amanda Soy Notable": [
+      6,
+      7.2,
+      6.9
+    ],
+    "Roberto Suspenso Pérez": [
+      2,
+      1.5,
+      3
+    ],
+    "Teodoro Va Mal": [
+      2,
+      3.5,
+      1
+    ],
+    "Emma Sin Problema": [
+      6,
+      5.5,
+      4.5
+    ],
+    "Sandra Suspendo Dos": [
+      3.3,
+      5,
+      4
+    ],
+    "Miguel Voy Aprobando": [
+      5.3,
+      5.5,
+      5.9
+    ],
+    "Silvia Saca Bien": [
+      6.3,
+      7.2,
+      5.1
+    ]
+  },
+  "física": {
+    "Manuel Muy Listo": [
+      9.1,
+      9.4,
+      8.9
+    ],
+    "Pepe Dejo Una": [
+      4.5,
+      6,
+      4
+    ],
+    "María Apruebo Justita": [
+      5.3,
+      5.5,
+      4.5
+    ],
+    "Amanda Soy Notable": [
+      8.3,
+      7.2,
+      6.2
+    ],
+    "Roberto Suspenso Pérez": [
+      2.3,
+      1.4,
+      2.9
+    ],
+    "Teodoro Va Mal": [
+      2,
+      1,
+      1
+    ],
+    "Emma Sin Problema": [
+      6.3,
+      6.5,
+      5.5
+    ],
+    "Sandra Suspendo Dos": [
+      4.3,
+      4.2,
+      5.5
+    ],
+    "Miguel Voy Aprobando": [
+      5.1,
+      4.8,
+      5.9
+    ],
+    "Silvia Saca Bien": [
+      6.3,
+      7.2,
+      6.1
+    ]
+  },
+  "química": {
+    "Manuel Muy Listo": [
+      9.1,
+      8.4,
+      9.9
+    ],
+    "Pepe Dejo Una": [
+      7.1,
+      6,
+      4
+    ],
+    "María Apruebo Justita": [
+      5.3,
+      6,
+      5.5
+    ],
+    "Amanda Soy Notable": [
+      8.3,
+      8.2,
+      6.7
+    ],
+    "Roberto Suspenso Pérez": [
+      1.3,
+      2.4,
+      2.9
+    ],
+    "Teodoro Va Mal": [
+      2,
+      1.1,
+      3.2
+    ],
+    "Emma Sin Problema": [
+      6,
+      6.8,
+      6.5
+    ],
+    "Sandra Suspendo Dos": [
+      8,
+      7.2,
+      6.5
+    ],
+    "Miguel Voy Aprobando": [
+      5,
+      5.8,
+      5.9
+    ],
+    "Silvia Saca Bien": [
+      6.3,
+      6.2,
+      6.1
+    ]
+  },
+  "lengua": {
+    "Manuel Muy Listo": [
+      9.1,
+      9.4,
+      7.9
+    ],
+    "Pepe Dejo Una": [
+      7.1,
+      6.4,
+      7.5
+    ],
+    "María Apruebo Justita": [
+      5.3,
+      7.1,
+      5.2
+    ],
+    "Amanda Soy Notable": [
+      8.1,
+      7.2,
+      6.7
+    ],
+    "Roberto Suspenso Pérez": [
+      1.7,
+      2.9,
+      3.9
+    ],
+    "Teodoro Va Mal": [
+      2.25,
+      1.1,
+      2.2
+    ],
+    "Emma Sin Problema": [
+      5,
+      5.8,
+      6.5
+    ],
+    "Sandra Suspendo Dos": [
+      7.75,
+      7.5,
+      8.5
+    ],
+    "Miguel Voy Aprobando": [
+      5.6,
+      6,
+      6.9
+    ],
+    "Silvia Saca Bien": [
+      7.3,
+      5.8,
+      6.1
+    ]
+  },
+  "galego": {
+    "Manuel Muy Listo": [
+      8.8,
+      8.4,
+      9.9
+    ],
+    "Pepe Dejo Una": [
+      6.1,
+      5.4,
+      7.7
+    ],
+    "María Apruebo Justita": [
+      5.2,
+      6.1,
+      4.2
+    ],
+    "Amanda Soy Notable": [
+      7.7,
+      7.2,
+      7.7
+    ],
+    "Roberto Suspenso Pérez": [
+      1.8,
+      1.9,
+      3.9
+    ],
+    "Teodoro Va Mal": [
+      2.25,
+      2.1,
+      2.2
+    ],
+    "Emma Sin Problema": [
+      5,
+      5.8,
+      6.5
+    ],
+    "Sandra Suspendo Dos": [
+      7.1,
+      7.5,
+      7.5
+    ],
+    "Miguel Voy Aprobando": [
+      6.6,
+      6,
+      6.9
+    ],
+    "Silvia Saca Bien": [
+      6.3,
+      6.8,
+      6.1
+    ]
+  }
+}

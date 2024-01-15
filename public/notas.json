@@ -1,0 +1,62 @@
+{
+  "matemáticas": {
+    "Manuel Muy Listo": 10,
+    "Pepe Dejo Una": 7,
+    "María Apruebo Justita": 6,
+    "Amanda Soy Notable": 7,
+    "Roberto Suspenso Pérez": 2,
+    "Teodoro Va Mal": 3,
+    "Emma Sin Problema": 5,
+    "Sandra Suspendo Dos": 3,
+    "Miguel Voy Aprobando": 6,
+    "Silvia Saca Bien": 6
+  },
+  "física": {
+    "Manuel Muy Listo": 9,
+    "Pepe Dejo Una": 4,
+    "María Apruebo Justita": 5,
+    "Amanda Soy Notable": 8,
+    "Roberto Suspenso Pérez": 3,
+    "Teodoro Va Mal": 1,
+    "Emma Sin Problema": 7,
+    "Sandra Suspendo Dos": 4,
+    "Miguel Voy Aprobando": 5,
+    "Silvia Saca Bien": 7
+  },
+  "química": {
+    "Manuel Muy Listo": 9,
+    "Pepe Dejo Una": 7,
+    "María Apruebo Justita": 7,
+    "Amanda Soy Notable": 7,
+    "Roberto Suspenso Pérez": 2,
+    "Teodoro Va Mal": 1,
+    "Emma Sin Problema": 8,
+    "Sandra Suspendo Dos": 8,
+    "Miguel Voy Aprobando": 5,
+    "Silvia Saca Bien": 6
+  },
+  "lengua": {
+    "Manuel Muy Listo": 10,
+    "Pepe Dejo Una": 5,
+    "María Apruebo Justita": 7,
+    "Amanda Soy Notable": 7,
+    "Roberto Suspenso Pérez": 2,
+    "Teodoro Va Mal": 4,
+    "Emma Sin Problema": 6,
+    "Sandra Suspendo Dos": 6,
+    "Miguel Voy Aprobando": 6,
+    "Silvia Saca Bien": 6
+  },
+  "galego": {
+    "Manuel Muy Listo": 9,
+    "Pepe Dejo Una": 6,
+    "María Apruebo Justita": 5,
+    "Amanda Soy Notable": 7,
+    "Roberto Suspenso Pérez": 2,
+    "Teodoro Va Mal": 2,
+    "Emma Sin Problema": 7,
+    "Sandra Suspendo Dos": 6,
+    "Miguel Voy Aprobando": 7,
+    "Silvia Saca Bien": 7
+  }
+}
